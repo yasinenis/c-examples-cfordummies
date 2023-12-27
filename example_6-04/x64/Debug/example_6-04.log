@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Yasin\Desktop\c-examples\example_6-04\main.cpp(14,6): warning C4305: '=': truncation from 'double' to 'float'
+  example_6-04.vcxproj -> C:\Users\Yasin\Desktop\c-examples\x64\Debug\example_6-04.exe
