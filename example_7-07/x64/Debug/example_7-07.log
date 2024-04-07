@@ -1,2 +1,2 @@
 ﻿  main.cpp
-  example_7-07.vcxproj -> C:\Users\Yasin\Desktop\c-examples\x64\Debug\example_7-07.exe
+C:\Users\Yasin\Desktop\c-examples\example_7-07\main.cpp : fatal  error C1090: PDB API call failed, error code '3': C:\Users\Yasin\Desktop\c-examples\example_7-07\x64\Debug\vc143.pdb
