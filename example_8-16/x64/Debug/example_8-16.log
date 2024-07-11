@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\Yasin\repositories\c-examples-cfordummies\example_8-16\main.cpp(8,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  D:\Yasin\repositories\c-examples-cfordummies\example_8-16\main.cpp(8,10):
+  placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  D:\Yasin\repositories\c-examples-cfordummies\example_8-16\main.cpp(8,10):
+  the missing variadic argument 2 is required by format string '%c'
+  D:\Yasin\repositories\c-examples-cfordummies\example_8-16\main.cpp(8,10):
+  this argument is used as a buffer size
+  
+  example_8-16.vcxproj -> D:\Yasin\repositories\c-examples-cfordummies\x64\Debug\example_8-16.exe

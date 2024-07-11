@@ -1,17 +1,11 @@
 // example_7-10
 
 #include <stdio.h>
-int hello()
-
-
-int main() {
-
-	int hello();
-}
-
-int hello()
+int main()
 {
-	printf("Hello World!");
-}
+	char prompt[] = "Press Enter to explode:";
 
-// allocated
+	printf("%s", prompt);
+	getchar();
+	return(0);
+}

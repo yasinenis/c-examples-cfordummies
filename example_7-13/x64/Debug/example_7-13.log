@@ -1,2 +1,10 @@
-﻿  main.c
-  example_7-13.vcxproj -> C:\Users\Yasin\Desktop\c-examples\x64\Debug\example_7-13.exe
+﻿  main.cpp
+D:\Yasin\repositories\c-examples-cfordummies\example_7-13\main.cpp(9,10): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+  D:\Yasin\repositories\c-examples-cfordummies\example_7-13\main.cpp(9,10):
+  this argument is used as a buffer size
+  
+D:\Yasin\repositories\c-examples-cfordummies\example_7-13\main.cpp(11,10): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+  D:\Yasin\repositories\c-examples-cfordummies\example_7-13\main.cpp(11,10):
+  this argument is used as a buffer size
+  
+D:\Yasin\repositories\c-examples-cfordummies\example_7-13\main.cpp(13,9): error C2059: syntax error: ')'

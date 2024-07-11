@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\Yasin\repositories\c-examples-cfordummies\example_8-04\main.cpp(8,24): warning C4474: 'scanf_s' : too many arguments passed for format string
+  D:\Yasin\repositories\c-examples-cfordummies\example_8-04\main.cpp(8,24):
+  placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+  
+D:\Yasin\repositories\c-examples-cfordummies\example_8-04\main.cpp(10,25): warning C4474: 'scanf_s' : too many arguments passed for format string
+  D:\Yasin\repositories\c-examples-cfordummies\example_8-04\main.cpp(10,25):
+  placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+  
+  example_8-04.vcxproj -> D:\Yasin\repositories\c-examples-cfordummies\x64\Debug\example_8-04.exe
