@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\Yasin\repositories\c-examples-cfordummies\examples_11-11\main.cpp(10,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Yasin\repositories\c-examples-cfordummies\examples_11-11\main.cpp(12,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Yasin\repositories\c-examples-cfordummies\examples_11-11\main.cpp(14,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Yasin\repositories\c-examples-cfordummies\examples_11-11\main.cpp(16,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  examples_11-11.vcxproj -> D:\Yasin\repositories\c-examples-cfordummies\x64\Debug\examples_11-11.exe

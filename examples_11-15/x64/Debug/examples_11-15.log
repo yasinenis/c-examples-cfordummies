@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Yasin\repositories\c-examples-cfordummies\examples_11-15\main.cpp(11,43): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Yasin\repositories\c-examples-cfordummies\examples_11-15\main.cpp(16,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  examples_11-15.vcxproj -> D:\Yasin\repositories\c-examples-cfordummies\x64\Debug\examples_11-15.exe

@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\Yasin\repositories\c-examples-cfordummies\examples_12-06\main.cpp(5,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Yasin\repositories\c-examples-cfordummies\examples_12-06\main.cpp(5,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Yasin\repositories\c-examples-cfordummies\examples_12-06\main.cpp(5,46): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Yasin\repositories\c-examples-cfordummies\examples_12-06\main.cpp(5,56): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Yasin\repositories\c-examples-cfordummies\examples_12-06\main.cpp(5,65): warning C4305: 'initializing': truncation from 'double' to 'float'
+  examples_12-06.vcxproj -> D:\Yasin\repositories\c-examples-cfordummies\x64\Debug\examples_12-06.exe

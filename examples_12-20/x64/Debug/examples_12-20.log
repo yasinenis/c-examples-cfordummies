@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\Yasin\repositories\c-examples-cfordummies\examples_12-20\main.cpp(17,3): error C2664: 'int puts(const char *)': cannot convert argument 1 from 'char' to 'const char *'
+  D:\Yasin\repositories\c-examples-cfordummies\examples_12-20\main.cpp(17,19):
+  Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stdio.h(358,26):
+  see declaration of 'puts'
+  D:\Yasin\repositories\c-examples-cfordummies\examples_12-20\main.cpp(17,3):
+  while trying to match the argument list '(char)'
+  

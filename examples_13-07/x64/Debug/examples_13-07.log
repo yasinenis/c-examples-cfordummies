@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\Yasin\repositories\c-examples-cfordummies\examples_13-07\main.cpp(11,10): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+  D:\Yasin\repositories\c-examples-cfordummies\examples_13-07\main.cpp(11,10):
+  this argument is used as a buffer size
+  
+  examples_13-07.vcxproj -> D:\Yasin\repositories\c-examples-cfordummies\x64\Debug\examples_13-07.exe

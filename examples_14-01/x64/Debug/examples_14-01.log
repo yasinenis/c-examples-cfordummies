@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\Yasin\repositories\c-examples-cfordummies\examples_14-01\main.cpp(13,10): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+  D:\Yasin\repositories\c-examples-cfordummies\examples_14-01\main.cpp(13,10):
+  this argument is used as a buffer size
+  
+D:\Yasin\repositories\c-examples-cfordummies\examples_14-01\main.cpp(15,33): warning C4474: 'scanf_s' : too many arguments passed for format string
+  D:\Yasin\repositories\c-examples-cfordummies\examples_14-01\main.cpp(15,33):
+  placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+  
+  examples_14-01.vcxproj -> D:\Yasin\repositories\c-examples-cfordummies\x64\Debug\examples_14-01.exe
