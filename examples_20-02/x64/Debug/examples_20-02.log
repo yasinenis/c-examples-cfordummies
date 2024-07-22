@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Yasin\repositories\c-examples-cfordummies\examples_20-02\main.cpp(31,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Yasin\repositories\c-examples-cfordummies\examples_20-02\main.cpp(37,25): warning C4305: '+=': truncation from 'double' to 'float'
+  examples_20-02.vcxproj -> D:\Yasin\repositories\c-examples-cfordummies\x64\Debug\examples_20-02.exe

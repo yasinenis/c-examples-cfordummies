@@ -1,0 +1,16 @@
+﻿  main.c
+D:\Yasin\repositories\c-examples-cfordummies\examples_20-12\main.c(76,27): warning C4474: 'scanf' : too many arguments passed for format string
+  D:\Yasin\repositories\c-examples-cfordummies\examples_20-12\main.c(76,27):
+  placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+  
+D:\Yasin\repositories\c-examples-cfordummies\examples_20-12\main.c(78,31): warning C4474: 'scanf' : too many arguments passed for format string
+  D:\Yasin\repositories\c-examples-cfordummies\examples_20-12\main.c(78,31):
+  placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+  
+D:\Yasin\repositories\c-examples-cfordummies\examples_20-12\main.c(80,28): warning C4474: 'scanf' : too many arguments passed for format string
+  D:\Yasin\repositories\c-examples-cfordummies\examples_20-12\main.c(80,28):
+  placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+  
+D:\Yasin\repositories\c-examples-cfordummies\examples_20-12\main.c(76,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Yasin\repositories\c-examples-cfordummies\examples_20-12\main.c(78,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Yasin\repositories\c-examples-cfordummies\examples_20-12\main.c(80,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

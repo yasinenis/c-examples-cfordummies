@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\Yasin\repositories\c-examples-cfordummies\examples_19-15\main.cpp(5,18): error C2440: 'initializing': cannot convert from 'const char [29]' to 'char *'
+  D:\Yasin\repositories\c-examples-cfordummies\examples_19-15\main.cpp(5,18):
+  Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+  

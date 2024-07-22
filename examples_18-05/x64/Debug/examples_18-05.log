@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\Yasin\repositories\c-examples-cfordummies\examples_18-05\main.cpp(17,9): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 1 has type 'size_t'
+  D:\Yasin\repositories\c-examples-cfordummies\examples_18-05\main.cpp(17,9):
+  consider using '%zu' in the format string
+  
+D:\Yasin\repositories\c-examples-cfordummies\examples_18-05\main.cpp(18,9): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 1 has type 'size_t'
+  D:\Yasin\repositories\c-examples-cfordummies\examples_18-05\main.cpp(18,9):
+  consider using '%zu' in the format string
+  
+  examples_18-05.vcxproj -> D:\Yasin\repositories\c-examples-cfordummies\x64\Debug\examples_18-05.exe

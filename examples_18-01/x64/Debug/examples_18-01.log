@@ -1,0 +1,25 @@
+﻿  main.cpp
+D:\Yasin\repositories\c-examples-cfordummies\examples_18-01\main.cpp(7,9): warning C4305: 'initializing': truncation from '__int64' to 'long'
+D:\Yasin\repositories\c-examples-cfordummies\examples_18-01\main.cpp(7,11): warning C4309: 'initializing': truncation of constant value
+D:\Yasin\repositories\c-examples-cfordummies\examples_18-01\main.cpp(8,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Yasin\repositories\c-examples-cfordummies\examples_18-01\main.cpp(11,9): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 1 has type 'size_t'
+  D:\Yasin\repositories\c-examples-cfordummies\examples_18-01\main.cpp(11,9):
+  consider using '%zu' in the format string
+  
+D:\Yasin\repositories\c-examples-cfordummies\examples_18-01\main.cpp(12,9): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 1 has type 'size_t'
+  D:\Yasin\repositories\c-examples-cfordummies\examples_18-01\main.cpp(12,9):
+  consider using '%zu' in the format string
+  
+D:\Yasin\repositories\c-examples-cfordummies\examples_18-01\main.cpp(13,9): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 1 has type 'size_t'
+  D:\Yasin\repositories\c-examples-cfordummies\examples_18-01\main.cpp(13,9):
+  consider using '%zu' in the format string
+  
+D:\Yasin\repositories\c-examples-cfordummies\examples_18-01\main.cpp(14,9): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 1 has type 'size_t'
+  D:\Yasin\repositories\c-examples-cfordummies\examples_18-01\main.cpp(14,9):
+  consider using '%zu' in the format string
+  
+D:\Yasin\repositories\c-examples-cfordummies\examples_18-01\main.cpp(15,9): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 1 has type 'size_t'
+  D:\Yasin\repositories\c-examples-cfordummies\examples_18-01\main.cpp(15,9):
+  consider using '%zu' in the format string
+  
+  examples_18-01.vcxproj -> D:\Yasin\repositories\c-examples-cfordummies\x64\Debug\examples_18-01.exe

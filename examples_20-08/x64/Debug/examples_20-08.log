@@ -1,0 +1,3 @@
+﻿  main.c
+D:\Yasin\repositories\c-examples-cfordummies\examples_20-08\main.c(23,8): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  examples_20-08.vcxproj -> D:\Yasin\repositories\c-examples-cfordummies\x64\Debug\examples_20-08.exe
