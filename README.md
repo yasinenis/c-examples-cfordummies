@@ -5,7 +5,7 @@ In this repository there is examples from c-for-dummies web site and these is my
 ##### C language Syntax changes 🍂
 
 ```c
-strncpy()->   strncpy_s() // sizeof() eklenecek
+strcpy()->   strcpy_s() // sizeof() eklenecek
 scanf()  ->   scanf_s()    // sizeof() eklenecek
 ctime()  ->   ctime_s()    // err= ctime_s(buffer,sizeof(buffer),&tictoc)
 localtime()-> localtime_s()// err= localtime( örnek , örnek )
