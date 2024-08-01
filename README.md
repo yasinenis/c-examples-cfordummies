@@ -24,6 +24,9 @@ localtime()-> localtime_s()// err= localtime( örnek , örnek )
 // Dosya varsa dosyanın sonu gösterilir
 // Dosya yoksa oluşturulur
 
+fprintf(fptr, "%s", sentence);
+// dosyaya normal metin yazmak için
+
 fwrite(&{what you write to file} , sizeof(int), how many , filepointer )
 // dosyaya veri yazıyor ama binary türünde .
 // problem olmaması adına dosyayı açarken wb ile açman iyi olur.
